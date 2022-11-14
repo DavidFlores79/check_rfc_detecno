@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://www.detecno.com.mx/RFCCheck/WCFRfcCheck/service1.svc" uri="wsdl/www.detecno.com.mx/RFCCheck/WCFRfcCheck/service1.svc.xml"/>
+</catalog>
